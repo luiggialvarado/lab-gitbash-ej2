@@ -1,0 +1,421 @@
+   50* git log --oneline
+   51* git reset --hard 25eedd5 
+   52* git add .
+   53* git commit -m "Supervivencia"
+   54* git push
+   55* curl -fsSL https://claude.ai/install.sh | bash
+   56* /usr/bin/python3 /Users/ironhack/Desktop/ANUNCIO/cv.py
+   57* Oython 3.11.1
+   58* Python  3.11.1
+   59* python
+   60* code
+   61* python --version
+   62* code --version
+   63* python3 --version
+   64* code3 --version
+   65* pip install python-docx reportlab
+   66* python -m pip install python-docx reportlab
+   67* python3 -m pip install python-docx reportlab
+   68* ls
+   69* python cv.py
+   70* python3 vc.py
+   71* ls
+   72* ls -la
+   73* python3 cv.py
+   74* ls
+   75* claude
+   76* npm install -g @anthropic-ai/claude-code\n
+   77* /usr/bin/python3 /Users/ironhack/Desktop/CV/cv.py
+   78* java --version
+   79* javac Main.java
+   80* --help
+   81* use --help
+   82* m+
+   83* Main.java
+   84* javac Main.java
+   85* pwd
+   86* ls
+   87* cd src/
+   88* ls
+   89* javac Main.java
+   90* brew install mariadb\n
+   91* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   92* sudo
+   93* sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   94*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:51358 -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/ironhack/Library/Application\ Support/Code/User/workspaceStorage/90c0f4490eec4e8394176473a8d8e8fe/redhat.java/jdt_ws/Examen\ Luiggi_b7b45eb3/bin Main 
+   95*  /usr/bin/env /Users/ironhack/.vscode/extensions/redhat.java-1.56.0-darwin-x64/jre/21.0.12.1-macosx-x86_64/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_9nk0aaw1h6nnt5v3dv4eosnz7.argfile com.example.concesionario.ConcesionarioApplication 
+   96* mkdir -p ~/proyectos\nrm -rf ~/Downloads/concesionario
+   97*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_9nk0aaw1h6nnt5v3dv4eosnz7.argfile com.example.concesionario.ConcesionarioApplication 
+   98* ./mvnw spring-boot:run
+   99* ./mvn spring-boot:run
+  100* ./mvnw spring-boot:run
+  101* du -h -d 1 ~ | sort -hr | head -15
+  102* du -h -d 1 ~/Library 2>/dev/null | sort -hr | head -15
+  103* ./mvnw spring-boot:return
+  104*  ./mvnw spring-boot:run
+  105* mvn spring-boot:run
+  106* ./mvnw spring-boot:run
+  107*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_bzbnu7vfqrgrj2piznlwyg6zl.argfile com.luiggi.chatbot.ChatbotApplication 
+  108*  cd /Users/ironhack/Downloads/chatbot ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_bzbnu7vfqrgrj2piznlwyg6zl.argfile com.luiggi.chatbot.ChatbotApplication 
+  109*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  110*  cd /Users/ironhack/Downloads/incidencias ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  111*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  112*  cd /Users/ironhack/Downloads/incidencias ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  113*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  114*  cd /Users/ironhack/Downloads/incidencias ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  115*  /usr/bin/env /Users/ironhack/.vscode/extensions/redhat.java-1.56.0-darwin-x64/jre/21.0.12.1-macosx-x86_64/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_c3sz4mgb98x0lulgoogocj29i.argfile com.luiggi.lab.LabApplication 
+  116* pwd
+  117* git init
+  118* git check-ignore -v src/main/resources/application.properties
+  119* git status
+  120* ls src/main/resources/static
+  121* git status --untracked-files=all
+  122* printf "\n.DS_Store\n" >> .gitignore\ngit status --untracked-files=all
+  123* grep -rl "Luiggi1992" --exclude-dir=target --exclude-dir=.git .
+  124* printf "\n.DS_Store\n" >> .gitignore\ngit add .\ngit status
+  125* git add .\ngit grep --cached -l "Luiggi1992"
+  126* git commit -m "Examen APIs: parte 1 (tiempo y pokemon) y parte 2 (incidencias de maquinas)"
+  127*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  128*  cd /Users/ironhack/Downloads/incidencias ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_6kvvckdcvqug6115929bz8oif.argfile com.luiggi.incidencias.IncidenciasApplication 
+  129* ls src/main/resources/static
+  130* cd ~/Desktop
+  131* git clone URL incidencias-prueba
+  132* cd ~/Desktop
+  133* pwd
+  134* git clone https://github.com/luiggialvarado/incidencias.git incidencias-prueba
+  135* ls incidencias-prueba/src/main/resources
+  136* cp incidencias-prueba/src/main/resources/application.properties.example incidencias-prueba/src/main/resources/application.properties
+  137*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_4bu670l4owwimwrwebly0so1q.argfile com.luiggi.incidencias.IncidenciasApplication 
+  138*  cd /Users/ironhack/Desktop/incidencias-prueba ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_4bu670l4owwimwrwebly0so1q.argfile com.luiggi.incidencias.IncidenciasApplication 
+  139* curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  140* fnm --version
+  141* curl -fsSL https://fnm.vercel.app/install | bash
+  142* git pull
+  143* git status
+  144* git add .\ngit commit -m "Permitir CORS y usar URL absoluta en el front"\ngit push
+  145*  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_4bu670l4owwimwrwebly0so1q.argfile com.luiggi.incidencias.IncidenciasApplication 
+  146*  cd /Users/ironhack/Desktop/incidencias-prueba ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/8f/q1bsm_1d3339zz13sgpmkn2r0000gq/T/cp_4bu670l4owwimwrwebly0so1q.argfile com.luiggi.incidencias.IncidenciasApplication 
+  147* curl -fsSL https://fnm.vercel.app/install | bash
+  148* curl -fsSL https://fnm.vercel.app/install | bash -s -- --skip-shell
+  149* brew install fnm
+  150* curl -fsSL https://fnm.vercel.app/install | bash -s -- --install-dir "./.fnm" --skip-shell
+  151* fnm --version
+  152* node --version
+  153* npm--version
+  154* npm install -g jsdoc
+  155* sudo npm install -g jsdoc
+  156* mkdir ~/Desktop/prueba-jsdoc\ncd ~/Desktop/prueba-jsdoc
+  157* touch main.js\nopen -e main.js
+  158* npm install jsdoc\nnpx jsdoc main.js\nopen out/index.html
+  159* node -v
+  160* npm -v
+  161* npm install -g jsdoc
+  162* sudo npm install -g jsdoc
+  163* cd /Users/ironhack/Desktop/prueba-jsdoc/main.js 
+  164* ls
+  165* cd /Users/ironhack/Desktop/prueba-jsdoc
+  166* lj
+  167* ls
+  168* $ brew install git
+  169* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  170* git --version
+  171* git status
+  172* git config --global user.name luiggialvarado
+  173* git config --global user.email luiggijosue.am@gmail.com
+  174* sudo port install fastfetch
+  175* brew --version
+  176* xcode-select --install\n
+  177* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  178* xcode-select --install\n
+  179* echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zprofile\neval "$(/usr/local/bin/brew shellenv)"\n
+  180* brew --version
+  181* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  182* uname -m
+  183* xcode-select --install
+  184* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  185* uname -m
+  186* sw_vers
+  187* curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh -o /tmp/homebrew-install.sh
+  188* grep -n -i -E 'Apple Silicon|Intel processors|x86_64|unsupported' /tmp/homebrew-install.sh
+  189* sudo port install fastfetch
+  190* port version
+  191* /Users/ironhack/.zprofile:1: no such file or directory: /usr/local/bin/brew
+  192* cat ~/.zprofile
+  193* sed -i '' '1d' ~/.zprofile
+  194* source ~/.zprofile
+  195* port version
+  196* wich port
+  197* which port
+  198* sudo port selfupdate
+  199* port search nodejs
+  200* sudo port install nodejs22
+  201* NODE
+  202* node -v
+  203* port search --name --glob 'npm*'
+  204* which node
+  205* port installed nodejs22 nodejs24
+  206* port search --name --glob 'npm*'
+  207* ls -l /usr/local/bin/node
+  208* /usr/local/bin/node -p "process.execPath"
+  209* /opt/local/bin/node -v
+  210* npm -v
+  211* which npm
+  212* ls -l /opt/local/bin/npm
+  213* npm config get prefix
+  214* git --version
+  215* npm root -g
+  216* ls -ld /opt/local/lib/node_modules
+  217* npm list -g --depth=0
+  218* ls -l /usr/local/bin/npm
+  219* head -n 1 /usr/local/bin/npm
+  220* npm config list
+  221* /usr/local/bin/node -v
+  222* /opt/local/bin/node -v
+  223* /usr/local/bin/node /usr/local/lib/node_modules/npm/bin/npm-cli.js -v
+  224* /opt/local/bin/node /usr/local/lib/node_modules/npm/bin/npm-cli.js -v
+  225* echo $PATH
+  226* type -a node npm
+  227* node -v\nnpm -v\nnode -p "process.execPath"\nnpm config get prefix
+  228* ls -l /usr/local/bin/npm\nnpm root -g\nnpm list -g --depth=0
+  229* npm config get userconfig\nnpm config get globalconfig\nnpm config list
+  230* cat ~/.npmrc
+  231* cat /opt/local/etc/npmrc
+  232* ls -l /opt/local/bin/node /opt/local/bin/npm /usr/local/bin/node /usr/local/bin/npm
+  233* /usr/local/bin/node -v\n/opt/local/bin/node -v\n/usr/local/bin/npm -v
+  234* env | grep -E '^(PATH|PREFIX|NPM_CONFIG|NODE_PATH)='
+  235* /usr/local/bin/node /usr/local/lib/node_modules/npm/bin/npm-cli.js config set prefix "$HOME/.npm-global" --location=user
+  236* grep -qxF 'export PATH="$HOME/.npm-global/bin:$PATH"' ~/.zprofile || echo 'export PATH="$HOME/.npm-global/bin:$PATH"' >> ~/.zprofile\nsource ~/.zprofile
+  237* node -v\nnpm -v\nnpm config get prefix
+  238* sudo port uninstall nodejs22
+  239* node -v\nnpm -v\nnode -p "process.execPath"\nnpm config get prefix
+  240* sudo port install fastfetch
+  241* fastfetch
+  242* fastfetch --version
+  243* sudo port select --set python3 python314
+  244* df -h/
+  245* df -h /
+  246* du -sh /opt/local
+  247* du -sh ~/Downloads ~/Desktop ~/Documents 2>/dev/null
+  248* du -sh ~/* 2>/dev/null
+  249* du -sh ~/Library/* 2>/dev/null | sort -h | tail -20
+  250* tmutil listlocalsnapshots /
+  251* du -sh "$HOME/Library/Application Support"/* 2>/dev/null | sort -h | tail -20
+  252* du -sh "$HOME/Library/Caches"/* 2>/dev/null | sort -h | tail -20
+  253* df -h /
+  254* rm -rf "$HOME/Library/Caches/com.spotify.client"
+  255* rm -rf "$HOME/Library/Caches/us.zoom.xos"
+  256* du -sh "$HOME/Library/Caches/JetBrains"/* 2>/dev/null | sort -h | tail -15
+  257* du -sh "$HOME/Library/Caches/Google"/* 2>/dev/null | sort -h | tail -15
+  258* df -h /System/Volumes/Data
+  259* du -sh "$HOME/Library/Caches/JetBrains/IntelliJIdea2026.1"/* 2>/dev/null | sort -h | tail -15
+  260* df -h /System/Volumes/Data
+  261* du -sh "$HOME/Library/Caches/Google/Chrome"/* 2>/dev/null | sort -h | tail -15
+  262* du -sh "$HOME/Library/"* 2>/dev/null | sort -h | tail -15
+  263* du -sh "$HOME/Library/Caches/Google/Chrome"/* 2>/dev/null | sort -h | tail -15
+  264* du -sh "$HOME/Library/Caches/Google/Chrome/Default"/* 2>/dev/null | sort -h | tail -20
+  265* rm -rf "$HOME/Library/Caches/Google/Chrome/Default/Cache"
+  266* rm -rf "$HOME/Library/Caches/Google/Chrome/Default/Code Cache"
+  267* df -h /System/Volumes/Data
+  268* du -sh "$HOME/Library/Caches/Google/Chrome" 2>/dev/null
+  269* du -sh "$HOME/Library/Application Support/"* 2>/dev/null | sort -h | tail -15
+  270* du -sh "$HOME/Library/Application Support/Code/"* 2>/dev/null | sort -h | tail -15
+  271* du -sh "$HOME/Library/Application Support/JetBrains/"* 2>/dev/null | sort -h | tail -15
+  272* rm -rf "$HOME/Library/Application Support/Code/Cache"
+  273* rm -rf "$HOME/Library/Application Support/Code/CachedData"
+  274* df -h /System/Volumes/Data
+  275* du -sh "$HOME/Library/Application Support/Google/"* 2>/dev/null | sort -h | tail -15
+  276* du -sh "$HOME/Library/Application Support/Google/GoogleUpdater/"* 2>/dev/null | sort -h | tail -15
+  277* du -sh "$HOME/Library/Application Support/Google/Chrome/"* 2>/dev/null | sort -h | tail -15
+  278* du -sh "$HOME/Library/Application Support/Google/GoogleUpdater/crx_cache/"* 2>/dev/null | sort -h | tail -15
+  279* pgrep -afil 'GoogleUpdater|GoogleSoftwareUpdate'
+  280* ls -lh "$HOME/Library/Application Support/Google/GoogleUpdater/crx_cache/9148800a0bc14aef708e4dac0ffc86553ac0d2c5486e6e012ba50c947a5b103b"
+  281* file "$HOME/Library/Application Support/Google/GoogleUpdater/crx_cache/9148800a0bc14aef708e4dac0ffc86553ac0d2c5486e6e012ba50c947a5b103b"
+  282* cat "$HOME/Library/Application Support/Google/GoogleUpdater/crx_cache/metadata.json"
+  283* "appid": "com.google.chrome"
+  284* ls -la "$HOME/Library/Application Support/Google/GoogleUpdater"
+  285* ls -la "/Library/Google/GoogleUpdater"
+  286* grep -iE 'error|fail|denied|permission|http' "$HOME/Library/Application Support/Google/GoogleUpdater/updater.log" | tail -30
+  287* sw_vers
+  288* uname -m
+  289* ls -ld "/Applications/Google Chrome.app"
+  290* ls -ld "/Applications/Google Chrome.app/Contents"
+  291* codesign --verify --deep --strict --verbose=2 "/Applications/Google Chrome.app"
+  292* "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --version
+  293* ls -l "$HOME/Library/Application Support/Google/GoogleUpdater/Current"
+  294* xattr -lr "/Applications/Google Chrome.app"
+  295* xattr -l "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/Current/Helpers/Google Chrome Helper (GPU).app"
+  296* codesign --verify --strict --verbose=2 "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/Current/Helpers/Google Chrome Helper (GPU).app"
+  297* sudo chown -R root:wheel "/Applications/Google Chrome.app"
+  298* fastfetch
+  299* sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  300* code .zshrc
+  301* git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k"
+  302* p10k configure
+  303* brew
+  304* la
+  305* code .zshrc
+  306* .zshrc
+  307* p10k configure
+  308* fastfetch
+  309* p10k configure
+  310* brew --version
+  311* brew install zsh
+  312* code ~/ .zshrc
+  313* /.zshrc
+  314* powerlevel10k/powerlevel10k
+  315* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  316* MacPorts
+  317* echo $SHELL 
+  318* echo $ZSH
+  319* node -v
+  320* npm -v
+  321* omz version
+  322* echo $ZSH_THEME
+  323* grep -E '^(ZSH_THEME|plugins)=' ~/.zshrc
+  324* ls ~/.oh-my-zsh/custom/plugins
+  325* ls ~/.oh-my-zsh/plugins | grep -E '^(git|zsh-autosuggestions|zsh-syntax-highlighting)$'
+  326* ls -ld ~/.oh-my-zsh/plugins/zsh-autosuggestions
+  327* ls -ld ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+  328* nano ~/.zshrc
+  329* source ~/.zshrc
+  330* nano ~/.zshrc
+  331* source ~/.zshrc
+  332* ls
+  333* echo $plugins
+  334* cd Documents/
+  335* ls
+  336* git --version
+  337* git status
+  338* autoload -Uz compinit && compinit
+  339* ls ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+  340* ls
+  341* cd '..'
+  342* ls
+  343* ls ~/.oh-my-zsh/custom/themes
+  344* nano ~/.zshrc
+  345* source ~/.zshrc
+  346* p10k configure
+  347* echo $ZSH_THEME
+  348* p10k display
+  349* ls -la ~/.p10k.zsh
+  350* ALTER USER
+  351* echo $ZSH_THEME
+  352* ls -la ~/.p10k.zsh
+  353* grep -n "powerlevel10k" ~/.zshrc
+  354* grep -n "p10k.zsh" ~/.zshrc
+  355* p10k version
+  356* echo $POWERLEVEL9K_MODE
+  357* p10k reload
+  358* print -P '%n@%m %B%~%b %#'
+  359* typeset -f prompt_powerlevel9k_setup
+  360* p10k display -a
+  361* p10k configure
+  362* p10k reload
+  363* git status
+  364* cat ~/.p10k.zsh | grep -E 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS|POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS|POWERLEVEL9K_MODE'
+  365* sed -n '/POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(/,/)/p; /POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(/,/)/p' ~/.p10k.zsh
+  366* source ~/.zshrc
+  367* p10k reload
+  368* echo "Tema: $ZSH_THEME"\necho "Fuente de iconos: $POWERLEVEL9K_MODE"
+  369* print -r -- "$PROMPT"
+  370* print -r -- "$RPROMPT"
+  371* (( $+functions[prompt_powerlevel9k_setup] )) && echo "Powerlevel10k: cargado" || echo "Powerlevel10k: no detectado"
+  372* (( $+functions[_p9k_precmd] )) && echo "Inicialización: detectada" || echo "Inicialización: no detectada"
+  373* typeset -p POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  374* p10k display -a
+  375* exec zsh
+  376* cd ~/Documents
+  377* cd ~
+  378* echo $plugins
+  379* grep -n 'vcs' ~/.p10k.zsh
+  380* cd ~/web-robot
+  381* ls
+  382* find ~/Documents ~/Desktop ~/Downloads -type d -name "web-robot" 2>/dev/null
+  383* ls ~/proyectos
+  384* ls ~/IdeaProjects
+  385* cd ~/IdeaProjects/"Hola Mundo"
+  386* git status
+  387* node -v
+  388* npm -v
+  389* grep -n 'node_version' ~/.p10k.zsh
+  390* nano ~/.p10k.zsh
+  391* p10k reload
+  392* cd ~/Documents
+  393* grep -A 10 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(' ~/.p10k.zsh
+  394* find ~/Documents ~/Desktop ~/Downloads -type f -name "package.json" 2>/dev/null
+  395* cd ~/Desktop/prueba-jsdoc
+  396* p10k reload
+  397* node -v
+  398* grep -A 10 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(' ~/.p10k.zsh
+  399* ls -l package.json
+  400* p10k display -a '*node_version*'
+  401* grep -n 'POWERLEVEL9K_NODE_VERSION' ~/.p10k.zsh
+  402* node -p "requiere('./package.json')"
+  403* node -p "require('./package.json')"
+  404* p10k help display
+  405* typeset -A reply\np10k display -a '*'\nprintf '%-32s = %q\n' ${(@kv)reply} | sort
+  406* grep -n -E 'node_version|NODE_VERSION' ~/.p10k.zsh
+  407* whence -v prompt_node_version
+  408* grep -n -A 25 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(' ~/p10k.zsh
+  409* sed -i '' 's/POWERLEVEL9K_NODE_VERSION_PROJECT_ONLY=true/POWERLEVEL9K_NODE_VERSION_PROJECT_ONLY=false/' ~/.p10k.zsh
+  410* p10k reload
+  411* node -v
+  412* typeset -A reply\np10k display -a '*'\nprintf '%-32s = %q\n' ${(@kv)reply} | sort | grep -E 'node_version|1/left'
+  413* grep -n 'POWERLEVEL9K_NODE_VERSION_PROJECT_ONLY' ~/.p10k.zsh
+  414* echo $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  415* grep -n 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS' ~/.zshrc
+  416* grep -n 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS' ~/.p10k.zsh
+  417* source ~/.p10k.zsh
+  418* echo $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  419* p10k reload
+  420* ~/.p10k.zsh
+  421* ~/.zshrc
+  422* grep -n -E 'ZSH_THEME|p10k\.zsh|powerlevel10k' ~/.zshrc
+  423* tail -n 25 ~/.zshrc
+  424* echo $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  425* grep -n -A 10 'POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(' ~/.p10k.zsh
+  426* grep -n 'POWERLEVEL9K_NODE_VERSION_PROJECT_ONLY' ~/.p10k.zsh
+  427* source ~/.p10k.zsh
+  428* echo $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  429* exec zsh
+  430* echo $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS
+  431* grep -n -E 'ZSH_THEME|p10k\.zsh|powerlevel10k|POWERLEVEL9K_LEFT_PROMPT_ELEMENTS' ~/.zshrc ~/.zprofile ~/.zshenv 2>/dev/null
+  432* echo $ZSH
+  433* p10k display -a '*'
+  434* typeset -A reply\np10k display -a '*'\nprintf '%-32s = %q\n' ${(@kv)reply} | sort
+  435* source ~/.p10k.zsh
+  436* node -v
+  437* which node
+  438* grep -n -A 20 'node_version: node.js version' ~/.p10k.zsh
+  439* source ~/.p10k.zsh
+  440* node -v
+  441* whence -v node
+  442* p10k display -a '*'
+  443* node -v\nwhence -v node\necho $POWERLEVEL9K_LEFT_PROMPT_ELEMENTS\np10k display -a '*'
+  444* exec zsh
+  445* grep -n -E 'source \$ZSH/oh-my-zsh.sh|p10k\.zsh|ZSH_THEME=' ~/.zshrc
+  446* p10k reload
+  447* ls
+  448* nano ~/.zshrc
+  449* fastfetch --list-logos
+  450* fastfetch --logo Venom
+  451* git status
+  452  cd -/Desktop/lab-gitbash/ejercicio1
+  453  cd ~/Desktop/lab-gitbash/ejercicio1\ngit init
+  454  echo "Ejercicio 1 - Lab GitBash" > archivo1.txt\ngit add archivo1.txt\ngit commit -m "primer commit"
+  455  git branch -M main\ngit remote add origin https://github.com/luiggialvarado/Lab-gitbash-ej1.git\ngit push -u origin main
+  456  git checkout -b rama2
+  457  echo "Cambios hechos en rama2" >> archivo1.txt\ngit add archivo1.txt\ngit commit -m "cambios en rama2"
+  458  git push -u origin rama2
+  459  git checkout main\ngit merge rama2\ngit push
+  460  git branch -d rama2
+  461  git push origin --delete rama2
+  462  git log --oneline
+  463  cd ~/Desktop/lab-gitbash/ejercicio2\ngit clone https://github.com/luiggialvarado/lab-gitbash-ej2.git .
+  464  echo "version 1" > archivo2.txt\ngit add archivo2.txt\ngit commit -m "commit 1"\ngit push -u origin main
+  465  echo "version 2" >> archivo2.txt\ngit add archivo2.txt\ngit commit -m "commit 2"\ngit push
+  466  echo "version 3" >> archivo2.txt\ngit add archivo2.txt\ngit commit -m "commit 3"\ngit push
+  467  git log --oneline
+  468  git reset --hard b9730aa
+  469  git log --oneline
+  470  git push --force
